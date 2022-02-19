@@ -5,7 +5,7 @@ Things I learned
 - The properties of Stacks (VStack, HStack, ZStack)
 - The uses of Colors, Frames, and Gradients (Linear, RadialGradient, AngularGradient)
 - The fundamentals of Images, Buttons and Alert Messages
-- 
+
 ### Day 17 (Part 2) 
 - Continue building the app and improving the design of the app
 
