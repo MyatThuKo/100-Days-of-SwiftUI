@@ -1,15 +1,15 @@
 ## Project 2, Guess the Flag (Day 20 - Day 22)
 
-### Day 16 (Part 1)
+### Day 20 (Part 1)
 Things I learned 
 - The properties of Stacks (VStack, HStack, ZStack)
 - The uses of Colors, Frames, and Gradients (Linear, RadialGradient, AngularGradient)
 - The fundamentals of Images, Buttons and Alert Messages
 
-### Day 17 (Part 2) 
+### Day 21 (Part 2) 
 - Continue building the app and improving the design of the app
 
-### Day 18 (Part 3) 
+### Day 22 (Part 3) 
 Wrap-up Day Challenges 
 - Add an @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert and in the score label.
 - When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
