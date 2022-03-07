@@ -7,7 +7,7 @@ Things I learned
 - How to add a nevigation bar using NevigationView
 - How to use @State and its uses
 - How to create views in a loop 
-
+-----
 ### Day 17 (Part 2) 
 Things I learned 
 - How to read a text from a user with TextField 
@@ -15,7 +15,7 @@ Things I learned
 - How to create a picker (regular and segmented control)
 - How to get a computed property
 - How to hide the keyboard using @FocusState
-
+-----
 ### Day 18 (Part 3) 
 Wrap-up Day Challenges 
 - Add a header saying "Amount per person" to the section 
