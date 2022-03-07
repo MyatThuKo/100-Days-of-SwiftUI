@@ -5,11 +5,11 @@ Things I learned
 - Functionality of a Stepper 
 - Properties of DatePicker
 - How to train a model with Create ML (Core ML)
-
+-----
 ### Day 27 (Part 2) 
 Things I learned 
 - How to connect SwiftUI to Core ML
-
+-----
 ### Day 28 (Part 3) 
 Wrap-up Day Challenges 
 - Redesign the app using either a Form with Section or a VStack 
