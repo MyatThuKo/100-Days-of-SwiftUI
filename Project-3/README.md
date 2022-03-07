@@ -8,7 +8,7 @@ Things I learned
 - Conditional and Environment modifiers
 - Views as properties and View Compositions
 - Custom modifiers and Custom containers
-
+-----
 ### Day 24 (Part 2) 
 Wrap-up Day Challenges 
 - Add a conditional modifier to change the color of a text when 0% tip is selected 
