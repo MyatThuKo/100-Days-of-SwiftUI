@@ -5,7 +5,7 @@
 - Used @State binding properties
 - Custom ViewModifier and an extension for it 
 - View Composition and Alert Message
-
+-----
 ### Thoughts process 
 - Create necessary properties to store
   1. user's selection 
